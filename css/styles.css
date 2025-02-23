@@ -423,6 +423,28 @@ img {
   letter-spacing: 0.02em;
   max-width: 264px;
 }
-.container-footer {
+.social-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
 }
+.sotial-list {
+  display: flex;
+  gap: 16px;
+}
+.sotial-item {
+  width: 40px;
+  height: 40px;
+}
+.container-footer {
+  display: flex;
+  align-items: baseline;
+}
+.div-logo {
+  margin-right: 120px;
+}
+
 /* end region footer */
